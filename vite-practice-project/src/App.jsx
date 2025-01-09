@@ -47,7 +47,7 @@ function App() {
         <div className="custom-alert-overlay">
           <div className="custom-alert" >
             <p>{alertMessage}</p>
-            <button onClick={closeAlert} className="close-alert-button">Close</button>
+            <button onClick={closeAlert} className="close-alert-button">CLOSE</button>
           </div>
         </div>
       )}
